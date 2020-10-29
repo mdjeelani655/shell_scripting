@@ -1,0 +1,10 @@
+SHE-BANG
+
+#!
+Hash followed with the exclaimation is called she bang.
+it denotes its interepreter and its path
+
+#  comments
+
+Any line starts with # is a comment.
+And it is 100% interpreters ignores those lines.
